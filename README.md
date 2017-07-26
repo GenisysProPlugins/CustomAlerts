@@ -10,7 +10,7 @@ PocketMine-MP plugins
 
 ## Requirements
 
-PocketMine-MP 3.0.0-ALPHA5
+Latest GenisysPRO version.
 
 ## Overview
 
